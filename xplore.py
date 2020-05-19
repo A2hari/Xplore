@@ -47,7 +47,7 @@ s.cookies.set_policy(BlockAll())
 if (os.stat("google-dorks.txt").st_size == 0):
     time.sleep(random.choice(experience_time))
     print("\n[+] /Input/google-dorks.txt is empty add some dorks in  file to use the tool")
-    print("[+] Read the manual or use -h for` help ")
+    print("[+] Read the documentation from https://github.com/A2hari/Xplore ")
     exit()
 
 url = input("[+] Entet the dork/url ->  ")
