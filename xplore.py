@@ -26,8 +26,7 @@ def random_tld():  # a function to check the tld working weather all the tld's a
         print("[+] download the tld.txt file from the our github project repository and paste it in "+current_dir+"/bin/")
 
 current_dir = os.getcwd()
-dork_file = os.path.join(current_dir, "Input/google-dorks.txt")
-dork = open(dork_file,"a")   # by any chance the dork file get deleted then, this line of code create one file of same name.
+dork = open("google-dorks.txt","a")   # by any chance the dork file get deleted then, this line of code create one file of same name.
 dork.close()
 output = open('loot.txt',"w")
 output.close()
@@ -45,14 +44,14 @@ inital_pause = [5, 6, 7, 8, 9, 10]
 s = requests.Session()
 s.cookies.set_policy(BlockAll())
 
-if (os.stat(dork_file).st_size == 0):
+if (os.stat("google-dorks.txt").st_size == 0):
     time.sleep(random.choice(experience_time))
     print("\n[+] /Input/google-dorks.txt is empty add some dorks in  file to use the tool")
     print("[+] Read the manual or use -h for` help ")
     exit()
 
 url = input("[+] Entet the dork/url ->  ")
-g_dork = open(dork_file, "r")
+g_dork = open("google-dorks.txt", "r")
 for i in g_dork:
     TLD = random_tld()
     query = url + " " + i
