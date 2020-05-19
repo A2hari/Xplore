@@ -1,0 +1,26 @@
+                                                                                                               
+                                                                                                               
+XXXXXXX       XXXXXXX                    lllllll                                                               
+X:::::X       X:::::X                    l:::::l                                                               
+X:::::X       X:::::X                    l:::::l                                                               
+X::::::X     X::::::X                    l:::::l                                                               
+XXX:::::X   X:::::XXXppppp   ppppppppp    l::::l    ooooooooooo   rrrrr   rrrrrrrrr       eeeeeeeeeeee         
+   X:::::X X:::::X   p::::ppp:::::::::p   l::::l  oo:::::::::::oo r::::rrr:::::::::r    ee::::::::::::ee       
+    X:::::X:::::X    p:::::::::::::::::p  l::::l o:::::::::::::::or:::::::::::::::::r  e::::::eeeee:::::ee     
+     X:::::::::X     pp::::::ppppp::::::p l::::l o:::::ooooo:::::orr::::::rrrrr::::::re::::::e     e:::::e     
+     X:::::::::X      p:::::p     p:::::p l::::l o::::o     o::::o r:::::r     r:::::re:::::::eeeee::::::e     
+    X:::::X:::::X     p:::::p     p:::::p l::::l o::::o     o::::o r:::::r     rrrrrrre:::::::::::::::::e      
+   X:::::X X:::::X    p:::::p     p:::::p l::::l o::::o     o::::o r:::::r            e::::::eeeeeeeeeee       
+XXX:::::X   X:::::XXX p:::::p    p::::::p l::::l o::::o     o::::o r:::::r            e:::::::e                
+X::::::X     X::::::X p:::::ppppp:::::::pl::::::lo:::::ooooo:::::o r:::::r            e::::::::e               
+X:::::X       X:::::X p::::::::::::::::p l::::::lo:::::::::::::::o r:::::r             e::::::::eeeeeeee       
+X:::::X       X:::::X p::::::::::::::pp  l::::::l oo:::::::::::oo  r:::::r              ee:::::::::::::e       
+XXXXXXX       XXXXXXX p::::::pppppppp    llllllll   ooooooooooo    rrrrrrr                eeeeeeeeeeeeee       
+                      p:::::p                                                                                  
+                      p:::::p                                                                                  
+                     p:::::::p                                                                                 
+                     p:::::::p                                                                                 
+                     p:::::::p                       - A Google Hacking tool coded by Hari kiran            
+                     ppppppppp                                                                                 
+                                                                                                               
+

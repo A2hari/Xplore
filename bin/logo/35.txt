@@ -1,0 +1,10 @@
+O~~      O~~         O~~                                
+ O~~   O~~           O~~                                
+  O~~ O~~   O~ O~~   O~~   O~~    O~ O~~~   O~~         
+    O~~     O~  O~~  O~~ O~~  O~~  O~~    O~   O~~      
+  O~~ O~~   O~   O~~ O~~O~~    O~~ O~~   O~~~~~ O~~     
+ O~~   O~~  O~~ O~~  O~~ O~~  O~~  O~~   O~             
+O~~      O~~O~~     O~~~   O~~    O~~~     O~~~~        
+            O~~                                         
+           
+       - A Google Hacking tool coded by Hari kiran
