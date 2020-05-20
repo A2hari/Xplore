@@ -11,6 +11,10 @@ Information Gathering is one of the most important phase in the penetration test
 The install process is same for all the platforms. The installation process is very easy 
 
 <h3>1.Clone Repository</h3>
->git clone 
+
+> git clone https://github.com/A2hari/Xplore.git
+
+<h3>1. Install Requirements </h3>
+
 > pip3 install -r requirements.txt
 <h3>1. Install
