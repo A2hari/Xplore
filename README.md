@@ -59,9 +59,40 @@ Note: For every scan the loot.txt will be deleted and created newly so please af
 ```
 This error occures if the `google-dork.txt` file  is empty or if `google-dork.txt` went missing. if went missing no problem the script autometicall generates one if you run the script. to avoid this error add some google dorks form [ghdb](https://www.exploit-db.com/google-hacking-database) or your own dorks. This solves the error.
 
-2. If you found Teh following error
+2. If you found The following error
 ```
+[+] Fetching results for the dork =>  inurl:"index.php?option=com_fabrik"
+[+] Fetching results using tld => vu
+
+[+] Hmmmmm............
+[+] looks like we stepped on google captcha
+[+] browse google.vu in your browser and type any dork if found captcha solve it to unblock your ip 
+[+] For help browse https://github.com/A2hari/Xplore and read readme.md
+[+] trying using another tld
+
+ 
+[+] Fetching results for the dork =>  inurl:"index.php?option=com_fabrik"
+[+] Fetching results using tld => sc
+
+[+] Hmmm.......... 
+[+] check your internet connection... and google.scin your browser
+[+] Looks like we stepped on google captcha
+[+] Google is blocking requests form this ip 
+[+] Dont panic we are here to slove this
+[+] solve the captcha manually solves this error refer Xplore github page
+[+} For help browse https://github.com/A2hari/Xplore
+[+] Try re-running the script for the dork =>  inurl:"index.php?option=com_fabrik"
 
 ```
+Here are the following reasons for getting this error
+
+<h4>1. Google Captcha :-</h4>
+If Xplore hit with a google captcha or if google block your ip address you find this error. If you even don't have active internet connection you have this error. 
+<br>
+Ip block by google...! Dont panic it's just a google captcha. we have a solution it's a temporary block go to the google websie using the tld where your ip is blocked or hit with captcha. 
+ `EX: If i got this error on google.com.uk` Navigate to google.com.uk in your browser and search anything using google dork
+ if google captcha appeares solve it else leave your ip will be free form that tld after few minutes
+
+## Support
 
 <a href="https://www.buymeacoffee.com/hari" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
