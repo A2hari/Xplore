@@ -60,13 +60,11 @@ for i in g_dork:
     print("[+] Fetching results using tld => " + TLD )
     output.write("\n[+] Fetching results for the dork => " + query+"\n")
     output.write("[+] Fetching results using tld => " + TLD + "\n \n")
-
     try:
         for results in search(query, tld= TLD, num=10, stop=10, pause=pause_set):
             pause_set = random.choice(PAUSE)
             print(results)
             output.write(results+"\n")
-
     except:
         print("\n[+] Hmmmmm............")
         output.write("\n[+] Hmmmmm............")
@@ -78,7 +76,7 @@ for i in g_dork:
         output.write("[+] For help browse https://github.com/A2hari/Xplore")
         print("[+] trying using another tld")
         TLD = random_tld()
-        pause_set = random.choice(inital_pause)
+        pause_set = 2
         print("\n \n[+] Fetching results for the dork => " + query)
         print("[+] Fetching results using tld => " + TLD)
         output.write("\n[+] Fetching results for the dork => " + query + "\n")
