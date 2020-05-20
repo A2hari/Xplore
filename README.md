@@ -27,3 +27,12 @@ The install process is same for all the platforms. The installation process is v
 > python3 xplore.py
 
 Tada... You successfully run Xplore in your systen
+
+## Platform
+**Xplore** supports all the platforms and all the devices where python 3.8 runs so it is a platfom independent project
+
+## Usage
+Usage of Xplore is very simple
+h<4> Here are the steps for using this Software</h4>
+
+<a href="https://www.buymeacoffee.com/hari" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
