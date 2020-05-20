@@ -1,2 +1,3 @@
 # Xplore
-A Google hacking tool
+![GitHub](https://img.shields.io/github/license/A2hari/xplore)
+
