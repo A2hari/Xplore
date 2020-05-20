@@ -40,7 +40,6 @@ print("\n")
 print("                         Version %.1f"%(version))
 experience_time = [1, 2, 3]
 PAUSE = [ 3, 4, 5, 6, 7, 8, 9]
-inital_pause = [5, 6, 7, 8, 9, 10]
 s = requests.Session()
 s.cookies.set_policy(BlockAll())
 
@@ -55,7 +54,7 @@ g_dork = open("google-dorks.txt", "r")
 for i in g_dork:
     TLD = random_tld()
     query = url + " " + i
-    pause_set = random.choice(inital_pause)
+    pause_set = 2
     output = open("loot.txt","a")
     print("\n \n[+] Fetching results for the dork => " + query)
     print("[+] Fetching results using tld => " + TLD )
