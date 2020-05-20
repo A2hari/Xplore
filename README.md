@@ -45,12 +45,23 @@ Don't panic if you dont find 'google-dorks.txt' just run the script it creates o
 
 ![dork2](https://user-images.githubusercontent.com/40531762/82413476-09974500-9a93-11ea-8d68-3c886e79474a.png)
 
+Feeling that the software is working slow. we wantnedly made the software slow to avoid pattern detection and protect you from ip block. if you block your ip read Warnings and error.
+
 3. Wanna save the results in a text file we do that for you after the script executed you find a file named loot.txt on the directory in that file the report will be autometically saved.
 
 Note: For every scan the loot.txt will be deleted and created newly so please after the scan cut or copy file and store it before scan data is lost
 
-## Errors
+## Errors & Warnings
 1. If you found the folling error
-""
-""
+```
+>> [+] /Input/google-dorks.txt is empty add some dorks in  file to use the tool
+>> [+] Read the documentation from https://github.com/A2hari/Xplore 
+```
+This error occures if the `google-dork.txt` file  is empty or if `google-dork.txt` went missing. if went missing no problem the script autometicall generates one if you run the script. to avoid this error add some google dorks form [ghdb](https://www.exploit-db.com/google-hacking-database) or your own dorks. This solves the error.
+
+2. If you found Teh following error
+```
+
+```
+
 <a href="https://www.buymeacoffee.com/hari" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
