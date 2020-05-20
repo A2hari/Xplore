@@ -92,6 +92,8 @@ If Xplore hit with a google captcha or if google block your ip address you find 
 Ip block by google...! Dont panic it's just a google captcha. we have a solution it's a temporary block go to the google websie using the tld where your ip is blocked or hit with captcha. 
  `EX: If i got this error on google.com.uk` Navigate to google.com.uk in your browser and search anything using google dork
  if google captcha appeares solve it else leave your ip will be free form that tld after few minutes
+ <h4>2. Internet Connection</h4>
+ check weather you have stable Internet connection or not..
 
 ## Support
 
