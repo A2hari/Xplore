@@ -5,6 +5,8 @@
 
 ## Introduction
 Information Gathering is one of the most important phase in the penetration testing, and Google dorks has its own identification mark in the information gathering. Google dorking multiple queries for findinding a companies/website juicy information is very boring,time consuming and difficult task. Here is a solution for that, **Xplore** an advanced google dork search tool. **Xplore** is coded in such a way it browsers queries in a random pattern making bot pattern detection difficult.I built this project keeping easy use, time, and security in mind. Xplore is more powerful with the combination of [GHDB](https://www.exploit-db.com/google-hacking-database)
+
+Lazy to update the the google-dorks manually... Don't worry we are working on it and we will update it soon. stay tuned to this project for further updates and information 
 ## Install
 
 The install process is same for all the platforms. The installation process is very easy 
