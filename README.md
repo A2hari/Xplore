@@ -1,10 +1,10 @@
 # Xplore
-![GitHub](https://img.shields.io/badge/Version-1.1-blue)
-![GitHub](https://img.shields.io/badge/Platform-Unix%20%7C%20Windows-brightgreen)
+![GitHub](https://img.shields.io/badge/Version-1.2-blue)
+![GitHub](https://img.shields.io/badge/Platform-Unix%20%7C%20Linux-brightgreen)
 ![GitHub](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.8%2B-orange)
 
 ## Introduction
-Information Gathering is one of the most important phase in the penetration testing, and Google dorks has its own identification mark in the information gathering. Google dorking multiple queries for findinding a companies/website juicy information is very boring,time consuming and difficult task. Here is a solution for that, **Xplore** an advanced google dork search tool. **Xplore** is coded in such a way it browsers queries in a random pattern making bot pattern detection difficult.I built this project keeping easy use, time, and security in mind. Xplore is more powerful with the combination of [GHDB](https://www.exploit-db.com/google-hacking-database)
+Information Gathering is one of the most important phase in the penetration testing, and Google dorks has its own identification mark in the information gathering. Google dorking multiple queries for findinding a companies/website juicy information is very boring task,time consuming and difficult task. Here is a solution for that, **Xplore** an advanced google dork search tool. **Xplore** is coded in such a way it browsers queries in a random pattern making bot pattern detection difficult.I built this project keeping easy use, time, and security in mind. Xplore is more powerful with the combination of [GHDB](https://www.exploit-db.com/google-hacking-database)
 
 Lazy to update the the google-dorks manually... Don't worry we are working on it and we will update it soon. stay tuned to this project for further updates and information 
 ## Install
@@ -33,7 +33,7 @@ Tada... You successfully run Xplore in your systen
 **Xplore** supports all the platforms and all the devices where python 3.8 runs so it is a platfom independent project
 
 ## Usage
-Usage of Xplore is very simple. You don't need to be a pro at google dork. 
+Usage of Xplore is very simple. No Complex knowledge of google dorks is need. 
 <h4> Here are the steps for using this Software</h4>
 
 1. Add the google dorks form ghdb to the google-dork.txt and save it.
